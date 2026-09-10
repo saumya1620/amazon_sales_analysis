@@ -1,8 +1,3 @@
-## 🛠️ Tech Stack & Tools
-![Python](https://shields.io)
-![SQL](https://shields.io)
-![Tableau](https://shields.io)
-
 # Amazon E-Commerce Sales Analysis
 
 ## 📌 Project Overview
@@ -142,7 +137,7 @@ The Tableau dashboard provides an interactive view of Amazon's sales and operati
 
 ### Tableau Dashboard Preview
 
-![Amazon E-Commerce Dashboard](images/Tableau.jpg)
+![Amazon E-Commerce Dashboard](Images/Tableau.jpg)
 
 ---
 
