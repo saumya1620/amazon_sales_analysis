@@ -1,4 +1,4 @@
 *.ipynb linguist-detectable=Python
 *.sql linguist-detectable=true
 *.twbx linguist-language=true
-*.twbx linguist-language=Tableau
+*.twbx linguist-language=XML
