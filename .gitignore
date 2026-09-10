@@ -1,4 +1,3 @@
 *.ipynb linguist-detectable=true
 *.ipynb linguist-language=Python
-*.ipynp linguist-language=Tableau
 *.sql linguist-detectable=true
